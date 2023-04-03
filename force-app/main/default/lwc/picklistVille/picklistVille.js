@@ -53,7 +53,7 @@ export default class PicklistVille extends LightningElement {
             // this.humidity = result.humidity;
             // this.description = result.description;
             // this.country = result.country;
-
+            //com
             const message = {
                 city: this.selectedCity,
                 temperature: this.temperature,
